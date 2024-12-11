@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>england</file>
+    <file>usa</file>
+    <file>russia.png</file>
+  </qresource>
+</RCC>
